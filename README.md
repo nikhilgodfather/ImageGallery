@@ -1,13 +1,13 @@
 ## Preview
 
 ### Home Page
-![Home Page](https://your-image-link.com/home.png)
+![Home Page](https://github.com/nikhilgodfather/ImageGallery/blob/main/Preview/Screenshot1.png)
 
 ### Upload Image
-![Upload Image](https://your-image-link.com/upload.png)
+![Upload Image](https://github.com/nikhilgodfather/ImageGallery/blob/main/Preview/Screenshot2.png)
 
 ### Gallery View
-![Gallery View](https://your-image-link.com/gallery.png)
+![Gallery View](https://github.com/nikhilgodfather/ImageGallery/blob/main/Preview/Screenshot3.png)
 
 # Image Gallery Application
 
