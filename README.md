@@ -1,3 +1,14 @@
+## Preview
+
+### Home Page
+![Home Page](https://your-image-link.com/home.png)
+
+### Upload Image
+![Upload Image](https://your-image-link.com/upload.png)
+
+### Gallery View
+![Gallery View](https://your-image-link.com/gallery.png)
+
 # Image Gallery Application
 
 An Image Gallery web application built using Django for the backend and Vue.js for the frontend. This application allows users to upload, update, delete, and view images in the gallery.
