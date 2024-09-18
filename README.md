@@ -24,11 +24,12 @@ Before running the project, make sure you have the following installed:
 
 Follow these steps to set up the project locally:
 
-```bash
 # 1. Clone the repository
+
+```bash
 git clone https://github.com/nikhilgodfather/ImageGallery.git
 cd ImageGallery
-
+```
 # 2. Backend (Django)
 cd backend
 pip install -r requirements.txt
