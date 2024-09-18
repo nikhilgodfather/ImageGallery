@@ -31,19 +31,25 @@ git clone https://github.com/nikhilgodfather/ImageGallery.git
 cd ImageGallery
 ```
 # 2. Backend (Django)
+```bash
 cd backend
 pip install -r requirements.txt
-
+```
 # 3. Make migrations and migrate the database
+```bash
 python manage.py makemigrations
 python manage.py migrate
-
+```
 # 4. Start the Django development server
+```bash
 python manage.py runserver
-
+```
 # 5. Frontend (Vue.js)
-cd ../frontend/vue-backend
+```bash
+cd ./frontend/vue-backend
 npm install
-
+```
 # 6. Start the Vue.js frontend
+```bash
 npm run serve
+```
