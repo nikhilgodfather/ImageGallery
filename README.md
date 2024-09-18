@@ -24,33 +24,25 @@ Before running the project, make sure you have the following installed:
 
 Follow these steps to set up the project locally:
 
-### Backend (Django)
-Clone the repository:
-   ```bash
-   git clone https://github.com/nikhilgodfather/ImageGallery.git
-   cd ImageGallery/backend
-
-Install backend dependencies:
 ```bash
-    pip install -r requirements.txt
+# 1. Clone the repository
+git clone https://github.com/nikhilgodfather/ImageGallery.git
+cd ImageGallery
 
-Make migrations and migrate the database:
-       ```bash
-             python manage.py makemigrations
-             python manage.py migrate
+# 2. Backend (Django)
+cd backend
+pip install -r requirements.txt
 
-Start the Django development server:
- ```bach
-      python manage.py runserver
+# 3. Make migrations and migrate the database
+python manage.py makemigrations
+python manage.py migrate
 
+# 4. Start the Django development server
+python manage.py runserver
 
-**#Frontend (Vue.js)**
-      -Navigate to the frontend directory:
-      ```bash
-           cd ./frontend/vue-backend/
-   - Install Dependency
-        ```bash
-        npm install
+# 5. Frontend (Vue.js)
+cd ../frontend/vue-backend
+npm install
 
-
-
+# 6. Start the Vue.js frontend
+npm run serve
